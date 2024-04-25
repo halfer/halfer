@@ -1,7 +1,7 @@
-I am currently looking for backend software work, senior level. Majoring in PHP or TypeScript, minoring in devops
-for all hosted platforms.  Please contact me through the platform you found me on. This README is intended to be
-a better summary of my work  profile than a bare repo list. Most of my outside-work code is in private repos.
-Feedback welcome!
+I am currently looking for backend software work, senior level. Majoring in PHP or TypeScript, minoring in devops for all
+hosted CI platforms. I am UK-based and prefer fully/mostly remote. Please contact me through the platform you found me on.
+This README is intended to be a better summary of my work profile than a bare repo list. Most of my outside-work code is
+in private repos. Feedback welcome!
 
 👨‍🏫 Currently volunteering as a coach at [Codebar](https://codebar.io/)  
 ✏️ I'm a 20K "Trusted User" and curator on [Stack Overflow](https://stackoverflow.com/users/472495/halfer) (1.5K answers & 117K edits)  
