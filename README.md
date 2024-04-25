@@ -4,8 +4,10 @@ a better summary of my work  profile than a bare repo list. Most of my outside-w
 Feedback welcome!
 
 👨‍🏫 Currently volunteering as a coach at [Codebar](https://codebar.io/)  
-🤖 I'm building an AI / ChatGTP project with two product SMEs (all under wraps for now)  
+✏️ I'm a 20K "Trusted User" and curator on [Stack Overflow](https://stackoverflow.com/users/472495/halfer) (1.5K answers & 117K edits)  
+⚙️ I've 2.6K posts to help folks with [using CircleCI](https://discuss.circleci.com/u/halfer/activity)  
+🤖 I'm building an AI / ChatGTP-powered project with two product SMEs (all under wraps for now 🤐)  
 😇 I used to teach in-person PHP, and wrote [this tutorial](https://ilovephp.jondh.me.uk/)  
-↔️ I've written some useful utilities, such as this [shared-hosting file sync system](https://github.com/halfer/ftp-sync)
-⚡️ I did some experiments [with Docker Swarm](https://github.com/halfer/cd-demo-container)  
-  and [here's another one](https://github.com/halfer/htauth-swarm-demo)
+↔️ I've written some useful utilities, such as this [shared-hosting file sync system](https://github.com/halfer/ftp-sync)  
+🧪️ I did some experiments [with Docker Swarm](https://github.com/halfer/cd-demo-container)  
+⚗️ And [here's another one](https://github.com/halfer/htauth-swarm-demo)
