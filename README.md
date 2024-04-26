@@ -3,7 +3,7 @@ hosted CI platforms. I am UK-based and prefer fully/mostly remote. Please contac
 This README is intended to be a better summary of my work profile than a bare repo list. Most of my outside-work code is
 in private repos. Feedback welcome!
 
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="55%">
 
 ### Stuff I've done
 
@@ -13,11 +13,11 @@ in private repos. Feedback welcome!
 🤖 I'm building an AI / ChatGTP-powered project with two product SMEs (all under wraps for now 🤐)  
 😇 I used to teach PHP in-person, and wrote [this book-length tutorial](https://ilovephp.jondh.me.uk/)
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="45%">
 
 ### Code & experiments
 
-🐑 They're not native to AWS, but I got [PHP lambdas to work](https://github.com/halfer/php-lambda)
+🐑 They're not native to AWS, but I got [PHP lambdas to work](https://github.com/halfer/php-lambda)  
 ↔️ I wrote a shared-hosting [file sync system](https://github.com/halfer/ftp-sync), which is in production use  
 🧪️ I did some experiments [with Docker Swarm](https://github.com/halfer/cd-demo-container) (39 ⭐)  
 ⚗️ And [here's another one](https://github.com/halfer/htauth-swarm-demo)
