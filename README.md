@@ -28,7 +28,7 @@ mentoring and accountability sessions
 
 ### Side projects
 
-📝 Todo - this is a personal organiser built for nerds. Nearly everything works on SQL-like queries in the product itself: there's progress bars, tables, draggable and editable dashboards - all written with atomic commits and Claude having generated 99% of the code. Fully containerised and with a comprehensive test suite, this hopefully will be released for public usage  
+📝 Todo - this is a personal organiser built for nerds. Nearly everything works on SQL-like queries in the product itself: there's progress bars, tables, draggable and editable dashboards - all written with atomic commits and Claude having generated 99% of the code. Fully containerised and with a comprehensive test suite, this hopefully will be released for public usage after my job hunt  
 🚨 RedAlert - this makes use of third-party data sources to examine the comparative health of Reddit subs by examining moderation removal rates and the degree to which spam thrives in each sub. This project will be released in Jan 2027  
 🔬 I've been building an OpenAI-powered SEO-related project with two product SMEs and another engineer
 
