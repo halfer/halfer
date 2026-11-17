@@ -9,7 +9,7 @@ in private repos. Feedback welcome!
 
 👨‍🏫 In the past three years I've been volunteering as a coach at [Codebar](https://codebar.io/). I've done an estimated 40 one-to-one 
 mentoring and accountability sessions  
-✏️ I'm a 20K "Trusted User" and curator on [Stack Overflow](https://stackoverflow.com/users/472495/halfer) (1.5K answers & 117K edits)  
+✏️ I'm a 20K "Trusted User" and curator on [Stack Overflow](https://stackoverflow.com/users/472495/halfer) (1.5K answers & 121K edits)  
 ⚙️ I've made 2.6K posts to help folks with [using CircleCI](https://discuss.circleci.com/u/halfer/activity)  
 🛸 I've written 1.3K posts to help folks (or their chatty robot companions) on the [Fly.io platform](https://community.fly.io/u/halfer/summary)  
 😇 I used to teach PHP in-person, and wrote [this book-length tutorial](https://ilovephp.jondh.me.uk/)
